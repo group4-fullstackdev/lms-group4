@@ -1,0 +1,6 @@
+[submodule "frontend_lms"]
+	path = frontend_lms
+	url = git@github.com:group4-fullstackdev/lms.git
+[submodule "bend-lms"]
+	path = bend-lms
+	url = git@github.com:group4-fullstackdev/lms-backend.git
